@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808321965227",
+    "firebase_url": "https://notifydroid-74795.firebaseio.com",
+    "project_id": "notifydroid-74795",
+    "storage_bucket": "notifydroid-74795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808321965227:android:ae92dd64380c42c21eabee",
+        "android_client_info": {
+          "package_name": "com.lk.fot.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808321965227-101eb1q214uk1d687e9qfsfspk48q5r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4vMFqVt8qPLvxRossmhZnPy5pZoxCog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808321965227-101eb1q214uk1d687e9qfsfspk48q5r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
